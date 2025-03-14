@@ -146,24 +146,24 @@ body {
   border-radius: 4px;
 }
 .bg-primary {
-  background-color: #ff8cbc !important;
+  background-color: #9b8cfff6 !important;
 }
 .bg-success {
   background-color: #0225ac !important;
 }
 .bg-info {
-  background-color: #1a3c22 !important;
+  background-color: #139c22 !important;
 }
 .bg-warning {
-  background-color: #ffaac7 !important;
+  background-color: #0d24abf6 !important;
 }
 .bg-danger {
   background-color: #008063 !important;
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #ff8cbc !important;
-  border-color: #ff8cbc !important;
+  background-color: #338cbc !important;
+  border-color: #2f8cbc !important;
   color: #ffffff !important;
   box-shadow: none;
 }

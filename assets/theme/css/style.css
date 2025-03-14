@@ -7,7 +7,7 @@ body {
   font-style: normal;
   line-height: 1.5;
   font-weight: 400;
-  color: #232323;
+  color: #2323232c;
   position: relative;
 }
 
@@ -158,7 +158,7 @@ section .mbr-background-video-preview {
 
 /*! Base colors */
 .mbr-white {
-  color: #ffffff;
+  color: #ffffff0b;
 }
 
 .mbr-black {
@@ -166,11 +166,11 @@ section .mbr-background-video-preview {
 }
 
 .mbr-bg-white {
-  background-color: #ffffff;
+  background-color: #12afff;
 }
 
 .mbr-bg-black {
-  background-color: #000000;
+  background-color: #00fa00;
 }
 
 /*! Text-aligns */
